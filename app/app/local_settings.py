@@ -1,1 +1,0 @@
-SECRET_KEY = '&a@9tvuzbasc!l%w3)@jdywh8-q)26wxltybqv#1&)-!&+bo#&'
