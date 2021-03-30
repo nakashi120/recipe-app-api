@@ -4,6 +4,7 @@
     <list default="true" id="33de7add-ffb0-4350-a799-7d98924971c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/user/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/user/tests/test_users_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/tests/test_users_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/views.py" afterDir="false" />
     </list>
@@ -48,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616901134114</updated>
       <workItem from="1616901136523" duration="13391000" />
-      <workItem from="1616938978000" duration="6468000" />
+      <workItem from="1616938978000" duration="7830000" />
     </task>
     <servers />
   </component>
