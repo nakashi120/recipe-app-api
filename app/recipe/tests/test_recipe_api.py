@@ -76,6 +76,6 @@ class PrivateRecipeApiTests(TestCase):
         recipes = Recipe.objects.filter(user=self.user)
         serializer = RecipeSerializer(recipes, many=True)
 
-        self.assetEqual(res.status_code, status.HTTP_200_OK)
-        self.assetEqual(len(res.data), 1)
-        self.assetEqual(res.data, serializer.data)
+        self.assertEqual(res.status_code, status.HTTP_200_OK)
+        self.assertEqual(len(res.data), 1)
+        self.assertEqual(res.data, serializer.data)
